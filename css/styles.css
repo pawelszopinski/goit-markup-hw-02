@@ -2,16 +2,33 @@ body {
     font-family: 'Roboto', sans-serif; 
     color:#212121;
 }
-ul { 
-    margin: 0; padding: 0;
+.navigation {
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 500;
+line-height: 16px;
 }
-.rule {
-    color: navy;
+.sea {
+    color :#2196F3;
 }
-.logo {
-    height: 31px;
-width: 145px;
-left: 215px;
-top: 24px;
-border-radius: nullpx;
+.air {
+    color: #757575;
+}
+.title {
+    font-family: Roboto;
+font-size: 44px;
+font-weight: 900;
+line-height: 60px;
+}
+.order {
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 700;
+line-height: 30px;
+}
+.small-title {
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+line-height: 16px;
 }
