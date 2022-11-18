@@ -2,16 +2,30 @@ body {
     font-family: 'Roboto', sans-serif; 
     color:#212121;
 }
-.navigation {
+.logo-web {
+    font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+color:#2196F3
+}
+.logo-studio {
+    font-family: Raleway;
+font-size: 26px;
+font-weight: 700;
+line-height: 31px;
+color: #000;
+}
+.nav-list{ 
     font-family: Roboto;
 font-size: 14px;
 font-weight: 500;
 line-height: 16px;
 }
-.sea {
+.nav-list-blue {
     color :#2196F3;
 }
-.air {
+.nav-list-phone {
     color: #757575;
 }
 .title {
@@ -26,9 +40,16 @@ font-size: 16px;
 font-weight: 700;
 line-height: 30px;
 }
-.small-title {
+.paragraph-list {
     font-family: Roboto;
 font-size: 14px;
 font-weight: 700;
 line-height: 16px;
+}
+.paragraph {
+    font-family: Roboto;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color:#757575;
 }
