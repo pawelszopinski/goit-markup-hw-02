@@ -6,6 +6,8 @@
   --footer-first-color: #ffffff99;
   --footer-second-color: #fff;
   --logo-color: #000;
+  --button-filter-color:#F5F4FA;
+
 }
 body {
   font-family: 'Roboto', sans-serif;
@@ -155,6 +157,7 @@ font-size: 14px;
   border: none;
   outline: none;
   border-radius: 4px;
+  background-color: var(--button-filter-color)
 }
 .site-filter button:hover,
 .site-filter button:focus {
